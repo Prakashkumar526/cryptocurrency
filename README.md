@@ -18,6 +18,6 @@ An HTTP REST API to fetch cryptocurrency market updates from the CoinGecko API.
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/cryptocurrency-api.git
+git clone(https://prakashkumar526.github.io/cryptocurrency/)
 cd cryptocurrency-api
 ```
